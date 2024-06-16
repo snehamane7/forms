@@ -2,7 +2,6 @@
 import './App.css';
 import React from 'react'; // Import React
 import { BrowserRouter as Router, Routes,Route } from 'react-router-dom'; // Import BrowserRouter
-import Posts from './components/Posts/Posts';
 import Update from './components/update';
 import Form from './components/form';
 import axios from 'axios';
